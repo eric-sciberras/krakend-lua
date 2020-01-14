@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend-lua
+module github.com/eric-sciberras/krakend-lua
 
 go 1.12
 

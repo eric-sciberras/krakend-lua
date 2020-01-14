@@ -8,8 +8,8 @@ import (
 	"net/url"
 
 	"github.com/alexeyco/binder"
-	lua "github.com/devopsfaith/krakend-lua"
-	"github.com/devopsfaith/krakend-lua/router"
+	lua "github.com/eric-sciberras/krakend-lua"
+	"github.com/eric-sciberras/krakend-lua/router"
 	"github.com/devopsfaith/krakend/config"
 	"github.com/devopsfaith/krakend/logging"
 	"github.com/devopsfaith/krakend/proxy"
